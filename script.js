@@ -16,10 +16,10 @@ for (let x=0; x<5; x++)
 
 console.log(cars[x])
 // while cycle
-let item = 0; 
-while (item<cars.length) {
-    console.log(cars[item]);
-    item++;
+let y = 0; 
+while (y<cars.length) {
+    console.log(cars[y]);
+    y++;
 }
 
 // example 3 
